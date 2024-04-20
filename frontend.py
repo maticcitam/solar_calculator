@@ -197,4 +197,4 @@ def calculate_everything(n_clicks, area, tilt, mounting, orientation, peakpower,
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False, port=8050)
