@@ -1,0 +1,9 @@
+dash==2.16.1
+dash_bootstrap_templates==1.1.2
+dash_extensions==1.0.14
+dash_leaflet==1.0.15
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.20.0
+pvlib==0.10.4
